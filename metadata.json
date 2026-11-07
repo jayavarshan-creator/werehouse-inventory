@@ -1,0 +1,6 @@
+{
+  "name": "Smart Warehouse Inventory System (MERN + ESP32)",
+  "description": "A second-year college MERN stack project with React JSX frontend, Node.js Express REST APIs, MongoDB data layer, and ESP32 IoT smart scanner integration in silver, black, and blue theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
